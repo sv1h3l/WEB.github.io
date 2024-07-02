@@ -1,0 +1,40 @@
+.card {
+  padding: 1em;
+  border: 1px solid;
+}
+
+.card--primary {
+  background-color: lightgreen;
+  border-color: darkgreen;
+}
+
+.card--secondary {
+  color: black;
+  border-color: black;
+  background-color: lightblue;
+}
+
+
+.component--secondary-background-color {
+  background-color: red;
+}
+
+.component--primary-background-color {
+  background-color: yellow;
+}
+
+
+div {
+  width: 60ch;
+  margin: 1em auto;
+  color: #303030;
+}
+
+div span a:hover {
+  color: black;
+}
+
+.link {
+  padding: 0em 0.4em;
+  color: green;
+}
