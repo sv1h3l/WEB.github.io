@@ -1,6 +1,6 @@
 ## Tvorba webových stránek
 
-Repozitář pro předmět **Tvorba webových stránek** (KMI/WEB).
+Repozitář pro předmět **Tvorba webových stránek**.
 
 Zápočtový projekt si lze prohlédnout na: https://sv1h3l.github.io/WEB.github.io/
 
